@@ -14,6 +14,10 @@ npm install
 
 # yarn
 yarn
+
+# deploy
+chmod +x ./myscript
+./myscript
 ```
 
 For additional information, please visit the [Official Documentation](https://vuetifyjs.com).
